@@ -5,4 +5,4 @@
 4. npx tsc --init
 
 # 실행
-> npm start
+    npm start
